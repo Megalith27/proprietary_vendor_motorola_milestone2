@@ -169,11 +169,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
 	vendor/motorola/milestone2/framework/com.motorola.android.location.jar:system/framework/com.motorola.android.location.jar
 
-#app
-PRODUCT_COPY_FILES += \
-	vendor/motorola/milestone2/app/MotoPhonePortal.apk:system/app/MotoPhonePortal.apk \
-	vendor/motorola/milestone2/app/AudioEffectSettings.apk:system/app/AudioEffectSettings.apk \
-	vendor/motorola/milestone2/app/CompassCalibrate.apk:system/app/CompassCalibrate.apk \
 
 #extra
 PRODUCT_COPY_FILES += \
